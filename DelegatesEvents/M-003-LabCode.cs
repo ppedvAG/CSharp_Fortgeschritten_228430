@@ -29,20 +29,24 @@ public class DivisionsCalculator
 	}
 }
 
-// Diese Methode kann für das dritte Event bearbeitet werden
-// public bool CheckPrime(int num)
-// {
-// if (num % 2 == 0)
-	//{
-		// return false;
-	//}
-	
-	// for (int i = 3; i <= num / 2; i += 2)
-	// {
-		// if (num % i == 0)
-		// {
-			// return false;
-		// }
-	// }
-	// return true;
-// }
+/// <summary>
+/// Diese Methode kann für das dritte Event bearbeitet werden
+/// </summary>
+/// <param name="num"></param>
+/// <returns></returns>
+//public bool CheckPrime(int num)
+//{
+//	if (num % 2 == 0)
+//	{
+//		return false;
+//	}
+
+//	for (int i = 3; i <= num / 2; i += 2)
+//	{
+//		if (num % i == 0)
+//		{
+//			return false;
+//		}
+//	}
+//	return true;
+//}
