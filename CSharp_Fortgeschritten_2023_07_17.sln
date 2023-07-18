@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprachfeatures", "Sprachfeatures\Sprachfeatures.csproj", "{088FB6FA-8E8D-4BDE-B952-60D6868C7D60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprachfeatures", "Sprachfeatures\Sprachfeatures.csproj", "{088FB6FA-8E8D-4BDE-B952-60D6868C7D60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{9F73F4A2-4F8F-493A-840B-7CBF1C87B6F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{9F73F4A2-4F8F-493A-840B-7CBF1C87B6F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{4FB0BB0F-1BD8-4E8D-B471-1C5ADCCD3844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{4FB0BB0F-1BD8-4E8D-B471-1C5ADCCD3844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{E5AD43B7-4644-4B5F-9BB9-807CD5252152}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{E5AD43B7-4644-4B5F-9BB9-807CD5252152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{55E830AD-7F85-47FF-BDE3-DC83A4B78214}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E5AD43B7-4644-4B5F-9BB9-807CD5252152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5AD43B7-4644-4B5F-9BB9-807CD5252152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5AD43B7-4644-4B5F-9BB9-807CD5252152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E830AD-7F85-47FF-BDE3-DC83A4B78214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E830AD-7F85-47FF-BDE3-DC83A4B78214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E830AD-7F85-47FF-BDE3-DC83A4B78214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E830AD-7F85-47FF-BDE3-DC83A4B78214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
